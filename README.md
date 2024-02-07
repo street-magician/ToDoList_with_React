@@ -2,7 +2,7 @@ Task Management App with React JS
 
 You can add, edit, update, delete and toggle tasks
 
-[**Test the application**](https://street-magician.github.io/ToDoList_with_React/
+[**Try it here!**](https://street-magician.github.io/ToDoList_with_React/)
 
 ## Get started
 
