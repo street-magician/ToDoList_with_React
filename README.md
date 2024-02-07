@@ -18,4 +18,4 @@ yarn start
 # or
 npm start
 
-# All set! Start to manage your tasks
+# All set! Begin to manage your tasks
