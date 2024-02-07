@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/street-magician/ToDoList_with_React.git/static/css/main.7b776110.css",
-    "main.js": "/street-magician/ToDoList_with_React.git/static/js/main.e3688347.js",
-    "static/js/787.c6a9a21d.chunk.js": "/street-magician/ToDoList_with_React.git/static/js/787.c6a9a21d.chunk.js",
-    "index.html": "/street-magician/ToDoList_with_React.git/index.html",
-    "main.7b776110.css.map": "/street-magician/ToDoList_with_React.git/static/css/main.7b776110.css.map",
-    "main.e3688347.js.map": "/street-magician/ToDoList_with_React.git/static/js/main.e3688347.js.map",
-    "787.c6a9a21d.chunk.js.map": "/street-magician/ToDoList_with_React.git/static/js/787.c6a9a21d.chunk.js.map"
+    "main.css": "/ToDoList_with_React/static/css/main.7b776110.css",
+    "main.js": "/ToDoList_with_React/static/js/main.6957735a.js",
+    "static/js/787.c6a9a21d.chunk.js": "/ToDoList_with_React/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/ToDoList_with_React/index.html",
+    "main.7b776110.css.map": "/ToDoList_with_React/static/css/main.7b776110.css.map",
+    "main.6957735a.js.map": "/ToDoList_with_React/static/js/main.6957735a.js.map",
+    "787.c6a9a21d.chunk.js.map": "/ToDoList_with_React/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b776110.css",
-    "static/js/main.e3688347.js"
+    "static/js/main.6957735a.js"
   ]
 }
